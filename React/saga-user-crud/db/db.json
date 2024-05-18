@@ -1,0 +1,22 @@
+{
+    "Products": [
+        {
+            "userId": 1,
+            "id": 1,
+            "name": "Apple",
+            "color": "Black",
+            "price": 12000,
+            "category": "Mobile",
+            "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "userId": 2,
+            "id": 2,
+            "name": "Apple 2",
+            "color": "Black grey",
+            "price": 14000,
+            "category": "Mobile",
+            "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600"
+        }
+    ]
+}
