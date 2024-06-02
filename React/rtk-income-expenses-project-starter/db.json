@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": "jQ0J79p3a_UFT6gCEAz_T",
+      "fullName": "admin",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$M/N7SX8J/b.l12ElrNNj/OpstpKtLdCLxWzd.3G7BVro5r.0vyh9C",
+      "hasCreatedAccount": true,
+      "accounts": [
+        {
+          "name": "Mom's Building",
+          "accountType": "Project",
+          "initialBalance": 5000,
+          "transactions": [
+            {
+              "name": "Laptop",
+              "transactionType": "Income",
+              "category": "Personal",
+              "amount": "45000",
+              "createBy": "jQ0J79p3a_UFT6gCEAz_T",
+              "notes": "Deepinder Singh",
+              "id": "Rxsoj0FdUuOK1-4xjY59b",
+              "__v": 0,
+              "_id": "Rxsoj0FdUuOK1-4xjY59b",
+              "createdAt": "2024-06-02T07:58:53.135Z"
+            },
+            {
+              "name": "bale bale",
+              "transactionType": "Income",
+              "category": "Personal",
+              "amount": "450",
+              "createBy": "jQ0J79p3a_UFT6gCEAz_T",
+              "notes": "okokokok",
+              "id": "KnkMdIzeSE9X2WPxh2uXz",
+              "__v": 0,
+              "_id": "KnkMdIzeSE9X2WPxh2uXz",
+              "createdAt": "2024-06-02T08:23:47.614Z"
+            },
+            {
+              "name": "Deepinder Singh",
+              "transactionType": "Expenses",
+              "category": "Personal",
+              "amount": "450",
+              "createBy": "jQ0J79p3a_UFT6gCEAz_T",
+              "notes": "ooooooo",
+              "id": "usXw7UALI0jlDlsldwiWS",
+              "__v": 0,
+              "_id": "usXw7UALI0jlDlsldwiWS",
+              "createdAt": "2024-06-02T08:59:12.610Z"
+            }
+          ],
+          "createBy": "jQ0J79p3a_UFT6gCEAz_T",
+          "id": "kEq0-3ctIbmGI65qHU7cf",
+          "__v": 0,
+          "_id": "kEq0-3ctIbmGI65qHU7cf",
+          "createdAt": "2024-05-31T18:33:17.538Z"
+        },
+        {
+          "name": "Mackbook 14 inch pro black",
+          "accountType": "Builing",
+          "initialBalance": "120000",
+          "transactions": [],
+          "createBy": "jQ0J79p3a_UFT6gCEAz_T",
+          "notes": "This is for investment project",
+          "id": "3mtf1jQHAIKJ2Uiq0fbBX",
+          "__v": 0,
+          "_id": "3mtf1jQHAIKJ2Uiq0fbBX",
+          "createdAt": "2024-06-02T10:12:01.806Z",
+          "updatedAt": "2024-06-02T10:28:43.229Z"
+        }
+      ],
+      "createdAt": 1717139145541,
+      "updatedAt": "2024-05-31T18:28:06.007Z",
+      "__v": 0,
+      "_id": "jQ0J79p3a_UFT6gCEAz_T"
+    }
+  ]
+}
