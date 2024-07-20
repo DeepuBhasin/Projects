@@ -1,0 +1,73 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h1,
+h2 {
+  font-weight: normal;
+  margin: 0px;
+}
+
+#wrapper {
+  width: 90%;
+  max-width: 800px;
+  margin: auto;
+  box-shadow: 5px 3px 2px #aaa;
+  border: 1px solid #aaa;
+}
+
+header {
+  background-color: brown;
+  color: white;
+  padding: 10px 0px;
+  text-align: center;
+}
+
+#add-item {
+  width: 400px;
+  margin: 10px auto;
+}
+
+#add-item input {
+  width: 300px;
+  padding: 5px 0px;
+  display: block;
+  float: left;
+  border-radius: 0px;
+  border: 1px solid #aaa;
+}
+
+#add-item button {
+  background-color: brown;
+  color: white;
+  border: none;
+  padding: 6px;
+}
+
+#grocery-list {
+  margin: 20px;
+}
+
+#grocery-list ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+#grocery-list li {
+  margin: 30px 0px;
+  border-left: 5px solid #aaa;
+  padding: 10px;
+}
+
+#grocery-list li:hover {
+  border-color: brown;
+}
+
+#grocery-list li .delete {
+  float: right;
+  color: white;
+  background-color: brown;
+  padding: 10px;
+  cursor: pointer;
+}
